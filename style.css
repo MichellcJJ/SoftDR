@@ -75,7 +75,7 @@ h5 {
     font-size: 24px;
 }
 
-p, a {
+p, a, .small-text {
     font-weight: 400;
     line-height: 1.5;
     color: #495057;
@@ -91,4 +91,22 @@ a {
 }
 ul {
     list-style: none;
+}
+
+.small-text {
+    font-size: 12px;
+}
+
+.btn {
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.btn-primary {
+    color: #339af0;
+}
+
+.btn-secondary {
+    color: #9775fa;
 }
