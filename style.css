@@ -57,12 +57,10 @@ h1, h2, h3, h4, h5 {
 
 
 h1 {
-    text-align: center;
     font-size: 62px;
 }
 
 h2 {
-    text-align: center;
     font-size: 48px;
 }
 
@@ -133,5 +131,9 @@ ul {
 }
 
 .footer {
+    text-align: center;
+}
+
+.features-main-heading {
     text-align: center;
 }
