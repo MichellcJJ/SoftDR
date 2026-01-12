@@ -145,7 +145,7 @@ ul {
 }
 
 .highlight-secondary {
-    background-color: #339af0;
+    background-color: #9775fa;
 }
 
 .highlight-tertiary {
@@ -171,6 +171,8 @@ ul {
 
 .cta-section {
     text-align: center;
+    background-color: #339af0;
+    height: 300px;
 }
 
 /* -----------FOOTER SECTION -----------*/
