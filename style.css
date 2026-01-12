@@ -41,6 +41,10 @@ Graphite: #212529
 */
 Azul celeste #61abf6
 
+/* ------------------------GLOBAL STYLES ------------------------ */
+
+/* Add in universal selector later to remove default spacing propertied */
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
@@ -92,6 +96,9 @@ ul {
     font-size: 12px;
 }
 
+/* ------------------------COMPONES------------------------ */
+
+
 .btn {
     font-weight: 400;
     font-size: 16px;
@@ -122,18 +129,29 @@ ul {
     color: #9775fa;
 }
 
+/* ------------------------SECTIONS ------------------------ */
+
+/* -----------HERO SECTION -----------*/
+
 .hero-section {
     text-align: center;
 }
+
+/* -----------FEATURE SECTION -----------*/
+
+.features-main-heading {
+    text-align: center;
+}
+
+/* -----------CTA SECTION -----------*/
+
 
 .cta-section {
     text-align: center;
 }
 
-.footer {
-    text-align: center;
-}
+/* -----------FOOTER SECTION -----------*/
 
-.features-main-heading {
+.footer {
     text-align: center;
 }
