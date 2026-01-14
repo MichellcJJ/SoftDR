@@ -106,7 +106,7 @@ ul {
     font-size: 16px;
     text-decoration: none;
     padding: 15px 30px;
-    border-radius: 8px;
+    border-radius: 9px;
 }
 
 .btn-primary, .btn-primary:visited{
@@ -157,7 +157,7 @@ ul {
 .highlight {
     color: #ffffff;
     padding: 5px 10px;
-    border-radius: 4px;
+    border-radius: 9px;
 }
 
 .highlight-primary {
